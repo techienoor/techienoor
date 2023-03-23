@@ -2,7 +2,7 @@
 
 <ul>
   <li>👋 Hi, I’m @techienoor</li>
-  <li>🔭 I’m currently working on Pytorct, Deep Learning and Exploring AI and data Analysis.</li>
+  <li>🔭 I’m currently working on Pytorch, Deep Learning and Exploring AI and data Analysis.</li>
   <li>👀 I’m interested in Data & Information management, Data Science/ML, AI & DeepLearning, HealthCare Analyst and Medical Research</li>
   <li>🌱 I’m currently learning ML, AI & Deep Learning, IOT and Cloud Computing</li>
   <li>💞️ I’m looking to collaborate on Data Science/ ML, AI and DeepLearning Projects</li>
