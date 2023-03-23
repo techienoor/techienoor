@@ -15,17 +15,17 @@
 <ul dir="auto">
 <li>Here are Links to my favorite Data Science projects using real-world data and problems/ scenerio;
 <ul dir="auto">
-<li>Predict if SpaceX Falcon 9 first stage will land successfully after rocket launches. <a href="https://github.com/cgatama/SpaceX-Falcon-9-1st-stage-Success-Landing-Prediction/">SpaceX landing Prediction</a></li>
-<li>Data Analysis with Python of House Sales in <a href="https://github.com/cgatama/7-Data-Analysis-with-Python/tree/main/6%20House%20Sales%20in%20King%20County%20Assignment">King County, USA</a></li>
-<li>Decision Tree Drug Classifaction Problem to predict the class of an unknown patient, or/ and find a proper drug for a new patient. <a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/3%20Classification/Classification-Decision-Trees-drug.jupyterlite.ipynb">Drug &amp; patient classification</a></li>
-<li>K-NN Customer Classification Problem for Telcommunication Company to segment customers by service usage patterns. <a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/3%20Classification/Classification-K-Nearest-neighbors-CustCat.ipynb">Telco Customer Segmentation using K-NN classification model</a></li>
-<li>Credit Card Fraud Detection Classication probmem using Decision Tree and Support Vector Machine (SVM).<a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/3%20Classification/Faster%20Credit%20Card%20Fraud%20Detection%20using%20Snap%20ML%20classification_tree_svm.ipynb">Credit Card Fraud Detection</a></li>
-<li>Regression_Trees to predict house prices. <a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/3%20Classification/Regression_Trees%20to%20predict%20house%20prices.ipynb">House price prediction</a></li>
-<li>NYC Taxi Tip Prediction using Decision Tree Regressor model in Scikit-Learn and Snap ML. <a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/3%20Classification/Regression_tree%20Taxi%20Tip%20Prediction%20using%20Scikit-Learn%20and%20Snap%20ML.ipynb">Taxi Tip Prediction</a></li>
-<li>Telecommunications Company Customer Churn Prediction with Logistic Regression.<a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/4%20Linear%20Classification/Classification-Logistic%20Regression%20with%20Python%20TelCo%20Customer%20Churn.ipynb">Customer Churn Prediction</a></li>
-<li>Human cell classification problem cells to classify whether the samples are benign or malignant using SVM (Support Vector Machines).<a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/4%20Linear%20Classification/Classification%20Model-SVM%20(Support%20Vector%20Machines)-cancer%20cells%20id.jupyterlite.ipynb">benign or malignant classification</a>.</li>
-<li>Customer Segmentation using K-Means clustering problem with K-Means clustering model. <a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/5%20Clustering%20K-means/Clustering-K-Means-Customer-Segmentation.ipynb">use k-Means for customer segmentation</a></li>
-<li>Using a rainfall dataset from Australian Government's Bureau of Meteorology , clean the data, and apply different classification algorithm on the data to find the best classification algorithm (among Logistic Regression, KNN, SVM, Decision Trees, Linear Regression) to predict rainfall in Australia dataset based on the <a href="https://github.com/cgatama/Machine-Learning-with-Python/blob/main/6%20Final%20Project/Module%206_ML0101EN_SkillUp_FinalAssignment%20Updated.ipynb">accuracy evaluation methods (evaluation metrics)</a></li>
+<li>Predict if SpaceX Falcon 9 first stage will land successfully after rocket launches. <a href="#Link">SpaceX landing Prediction</a></li>
+<li>Data Analysis with Python of House Sales in <a href="#Link">King County, USA</a></li>
+<li>Decision Tree Drug Classifaction Problem to predict the class of an unknown patient, or/ and find a proper drug for a new patient. <a href="#Link">Drug &amp; patient classification</a></li>
+<li>K-NN Customer Classification Problem for Telcommunication Company to segment customers by service usage patterns. <a href="#Link">Telco Customer Segmentation using K-NN classification model</a></li>
+<li>Credit Card Fraud Detection Classication probmem using Decision Tree and Support Vector Machine (SVM).<a href="#Link">Credit Card Fraud Detection</a></li>
+<li>Regression_Trees to predict house prices. <a href="#Link">House price prediction</a></li>
+<li>NYC Taxi Tip Prediction using Decision Tree Regressor model in Scikit-Learn and Snap ML. <a href="#Link">Taxi Tip Prediction</a></li>
+<li>Telecommunications Company Customer Churn Prediction with Logistic Regression.<a href="#Link">Customer Churn Prediction</a></li>
+<li>Human cell classification problem cells to classify whether the samples are benign or malignant using SVM (Support Vector Machines).<a href="#Link">benign or malignant classification</a>.</li>
+<li>Customer Segmentation using K-Means clustering problem with K-Means clustering model. <a href="#Link">use k-Means for customer segmentation</a></li>
+<li>Using a rainfall dataset from Australian Government's Bureau of Meteorology , clean the data, and apply different classification algorithm on the data to find the best classification algorithm (among Logistic Regression, KNN, SVM, Decision Trees, Linear Regression) to predict rainfall in Australia dataset based on the <a href="#Link">accuracy evaluation methods (evaluation metrics)</a></li>
 </ul>
 </li>
 </ul>
